@@ -31,7 +31,7 @@ import static com.example.android.jobscheduler.MainActivity.MESSENGER_INTENT_KEY
 import static com.example.android.jobscheduler.MainActivity.MSG_COLOR_START;
 import static com.example.android.jobscheduler.MainActivity.MSG_COLOR_STOP;
 import static com.example.android.jobscheduler.MainActivity.WORK_DURATION_KEY;
-/*These is version 2.0*/
+/*These is version 3.0*/
 
 /**
  * Service to handle callbacks from the JobScheduler. Requests scheduled with the JobScheduler
